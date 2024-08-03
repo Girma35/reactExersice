@@ -1,9 +1,9 @@
-```markdown
+
 # React Full Name Input Exercise
 
-![React](https://img.shields.io/badge/React-16.13.1-blue)
-![npm](https://img.shields.io/badge/npm-6.14.4-red)
-![License](https://img.shields.io/badge/license-MIT-green)
+![React](https://img.shields.io/badge/React-16.13.1-blue.svg)
+![npm](https://img.shields.io/badge/npm-6.14.4-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 This project is a simple React application that demonstrates handling state and input changes in a form. The application updates and displays the first name and last name entered by the user in real-time.
 
@@ -59,3 +59,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
+
+This `README.md` file includes all the essential sections: overview, installation, usage, contributing, and license, along with badges for React, npm, and the MIT license. Make sure to update the GitHub repository link and other details as necessary.
